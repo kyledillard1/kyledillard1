@@ -2,7 +2,9 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 - <b>SOHO Packet Tracer Network with Inter Vlan Connections</b>
-
+Designed and documented a Small Office/Home Office network with VLANS and inter-VLAN routing.<br>
+    <a href="https://github.com/kyledillard1/Packet-Tracer-SOHO-Network" target="_blank">
+      🔗 View Project on GitHub
 
 <h2> :page_facing_up: Certifications</h2>
 
