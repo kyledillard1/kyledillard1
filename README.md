@@ -2,8 +2,6 @@
 <h2>👨‍💻 General IT Projects:</h2>
 
 - <b>SOHO Packet Tracer Network with Inter Vlan Connections</b>
-  
-- <b>Virtualization Project 
 
 
 <h2> :page_facing_up: Certifications</h2>
