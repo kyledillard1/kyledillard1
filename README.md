@@ -1,32 +1,40 @@
-<h1>Hi, I'm Kyle ! 
-<h2>👨‍💻 General IT Projects:</h2>
+<h1>Hi, I'm Kyle 👋</h1>
 
-- <b>SOHO Packet Tracer Network with Inter Vlan Connections</b>
-Designed and documented a Small Office/Home Office network with VLANS and inter-VLAN routing.<br>
+<h2>👨‍💻 General IT Projects</h2>
+
+<ul>
+  <li>
+    <b>SOHO Packet Tracer Network with Inter-VLAN Connections</b><br>
+    Designed and documented a Small Office/Home Office network featuring VLAN segmentation and inter-VLAN routing.<br>
     <a href="https://github.com/kyledillard1/Packet-Tracer-SOHO-Network" target="_blank">
-      🔗 View project with this link!
+      🔗 View project
+    </a>
+  </li>
+  <br>
+  <li>
+    <b>User Workstation Virtualization Lab (Windows 11)</b><br>
+    Installed and configured a virtual Windows 11 workstation and performed user account management, network connectivity testing, peripheral setup, and troubleshooting tasks.<br>
+    <a href="https://github.com/kyledillard1/User-Workstation-Virtualization-Lab" target="_blank">
+      🔗 View project
+    </a>
+  </li>
+</ul>
 
-<h2> :page_facing_up: Certifications</h2>
+<h2>📄 Certifications</h2>
 
-- [Comptia A+] (https://www.credly.com/earner/dashboard)
+<ul>
+  <li>
+    <b>CompTIA A+</b> —
+    <a href="https://www.credly.com/earner/dashboard" target="_blank">
+      View Credential
+    </a>
+  </li>
+</ul>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with Me</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/kyle-dillard-81794233a/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[linkedin]:https://www.linkedin.com/in/kyle-dillard-81794233a/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
