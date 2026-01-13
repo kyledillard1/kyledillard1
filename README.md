@@ -18,6 +18,14 @@
       🔗 View project
     </a>
   </li>
+  <br>
+  <li>
+    <b>Windows Server Active Directory Lab (Virtualized)</b><br>
+    Installed and configured Windows Server in a virtual environment and implemented Active Directory to manage users, groups, and basic account administration tasks.<br>
+    <a href="https://github.com/kyledillard1/Windows-Server-AD-Lab" target="_blank">
+      🔗 View project
+    </a>
+  </li>
 </ul>
 
 <h2>📄 Certifications</h2>
@@ -37,4 +45,3 @@
   <img align="left" alt="LinkedIn" width="22px"
        src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
