@@ -33,7 +33,7 @@
 <ul>
   <li>
     <b>CompTIA A+</b> —
-    <a href="https://www.credly.com/earner/dashboard" target="_blank">
+    <a href="https://www.credly.com/badges/7d7579dd-0109-47c0-8417-91a55d5d8861/public_url" target="_blank">
       View Credential
     </a>
   </li>
