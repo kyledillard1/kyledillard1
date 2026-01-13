@@ -22,7 +22,7 @@
   <li>
     <b>Windows Server Active Directory Lab (Virtualized)</b><br>
     Installed and configured Windows Server in a virtual environment and implemented Active Directory to manage users, groups, and basic account administration tasks.<br>
-    <a href="https://github.com/kyledillard1/Windows-Server-AD-Lab" target="_blank">
+    <a href="https://github.com/kyledillard1/Windows-Server-Active-Directory-Lab-Virtualized-" target="_blank">
       🔗 View project
     </a>
   </li>
