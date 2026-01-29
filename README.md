@@ -11,6 +11,7 @@
     </a>
   </li>
   <br>
+
   <li>
     <b>User Workstation Virtualization Lab (Windows 11)</b><br>
     Installed and configured a virtual Windows 11 workstation and performed user account management, network connectivity testing, peripheral setup, and troubleshooting tasks.<br>
@@ -19,10 +20,20 @@
     </a>
   </li>
   <br>
+
   <li>
     <b>Windows Server Active Directory Lab (Virtualized)</b><br>
-    Installed and configured Windows Server in a virtual environment and implemented Active Directory to manage users, groups, and basic account administration tasks.<br>
+    Installed and configured Windows Server in a virtual environment and implemented Active Directory to manage users, groups, password resets, and basic account administration tasks.<br>
     <a href="https://github.com/kyledillard1/Windows-Server-Active-Directory-Lab-Virtualized-" target="_blank">
+      🔗 View project
+    </a>
+  </li>
+  <br>
+
+  <li>
+    <b>IT Help Desk Ticketing Lab (Jira Service Management)</b><br>
+    Simulated a Tier 1 help desk environment using Jira Service Management by creating, prioritizing, documenting, and resolving common support tickets such as password resets and printer issues.<br>
+    <a href= "https://github.com/kyledillard1/Jira-Service-Desk-Lab" target="_blank">
       🔗 View project
     </a>
   </li>
